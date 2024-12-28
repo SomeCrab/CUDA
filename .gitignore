@@ -1,0 +1,37 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore environment-specific files
+.env
+.venv/
+env/
+
+# Ignore generated folders
+output/
+done/
+test/
+
+# Ignore log files
+*.log
+
+# Ignore image files
+*.png
+*.jpe
+*.jpeg
+*.bmp
+*.webp
+*.webm
+*.gif
+*.jpg
+
+# Exceptions
+!pic0.jpg
+!pic1.jpg
+!pic2.jpg
+!pic3.jpg
+!pic4.jpg
